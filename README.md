@@ -150,11 +150,13 @@ Input your password and you should be good to go
   :PackerSync
   ````
 
-** Nvim custom keybinds included in the lua file
 
-=============================
+
+
+## Nvim custom keybinds included in the lua file
+
+
 NEOVIM SHORTCUT CHEAT SHEET
-=============================
 
 MODES
 -----
@@ -219,9 +221,8 @@ FILE EXPLORER (GENERIC)
 :Ex
 :Explore
 
-=============================
+
 CUSTOM KEYBINDS FROM init.lua
-=============================
 
 Ctrl+n     -> toggle file explorer (NvimTree)
 
@@ -235,9 +236,8 @@ Ctrl+q     -> quit file
 
 Ctrl+p     -> file search (Telescope if installed)
 
-=============================
+
 NVIMTREE FILE EXPLORER KEYS
-=============================
 
 Enter      -> open file
 a          -> create file/folder
@@ -248,9 +248,8 @@ x          -> cut
 p          -> paste
 R          -> refresh
 
-=============================
+
 THEMES
-=============================
 
 :colorscheme gruvbox
 :colorscheme dracula
@@ -258,9 +257,8 @@ THEMES
 :colorscheme catppuccin
 :colorscheme tokyonight
 
-=============================
+
 PLUGINS
-=============================
 
 :PackerSync    -> install/update plugins
 :NvimTreeToggle -> toggle file explorer
