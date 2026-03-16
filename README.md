@@ -120,6 +120,36 @@ Input your password and you should be good to go
 * You should get prompted with the username and password and the VNC setup should be configured
 
 ### 9. Installation and configuration of NeoVim
+* run this command:
+  ```bash
+  sudo apt install neovim -y
+  ````
+* Create a nvim config dir
+  ````bash
+  mkdir -p ~/.config/nvim
+  ````
+* open this file
+  ````bash
+  nano ~/.config/nvim/init.lua
+  ````
+  and paste in the init.lua file, save and exit
+* The lua file expects packer, so install it:
+  ````bash
+  git clone --depth 1 https://github.com/wbthomason/packer.nvim \ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+  ````
+* Open up Neovim
+  ````bash
+  nvim
+  ````
+* Then install the plugins like this:
+  ````bash
+  :PackerSync
+  ````
+* Whenever you install new plugins just run:
+    ````bash
+  :PackerSync
+  ````
+
 
 
 
