@@ -1,10 +1,10 @@
 # Ipad pro to Raspberry PI 4
 
 ## Overview
-This is a custom DIY project for programmers who own an Ipad but have no idea how to make it a useful daily essential.
-This configuration allows you directly create a peer-to-peer connection between the Ipad and the raspberry pi.
-You'll be able to ssh and vnc to the pi through your ipad even without an internet connection.
-This project includes my personal Neovim setup with my custom keybinds for those of you who use Neovim
+* This is a custom DIY project for programmers who own an Ipad but have no idea how to make it a useful daily essential.
+* This configuration allows you directly create a peer-to-peer connection between the Ipad and the raspberry pi.
+* You'll be able to ssh and vnc to the pi through your ipad even without an internet connection.
+* This project includes my personal Neovim setup with my custom keybinds for those of you who use Neovim
 
 ## What do you need to complete this setup?
 * An Ipad
