@@ -106,13 +106,18 @@ ssh hostname@192.168.50.1
 ``````
 Input your password and you should be good to go
 
+
+
+
+
+
 ## By this point you are fully set however if you want to setup VNC and Neovim the steps are as follows
 
 ### 8. VNC configuration
-*Install an application on your Ipad called Real-vnc-viewer
-*once installed open it and press the plus sign in the top right hand corner
-*input as follows, Adress: 192.168.50.1:5900      Name: This can be any name of your choice
-*You should get prompted with the username and password and the VNC setup should be configured
+* Install an application on your Ipad called Real-vnc-viewer
+* Once installed open it and press the plus sign in the top right hand corner
+* Input as follows,    Adress: 192.168.50.1:5900          Name: This can be any name of your choice
+* You should get prompted with the username and password and the VNC setup should be configured
 
 ### 9. Installation and configuration of NeoVim
 
