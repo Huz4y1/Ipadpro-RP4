@@ -250,10 +250,8 @@ PLUGINS
 * :NvimTreeToggle -> toggle file explorer
 
 
-
-
-
-
+## Media
+![ir](https://github.com/user-attachments/assets/0b44d8eb-e7f3-4eac-83c0-c7d8cf148278)
 
 
 
